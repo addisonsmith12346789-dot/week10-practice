@@ -1,0 +1,21 @@
+
+@media (min-width: 700px) {
+  .page-layout {
+    flex-direction: row;
+  }
+
+  main {
+    flex: 2;
+  }
+
+  aside {
+    flex: 1;
+  }
+}
+
+footer {
+  background-color: #33475b;
+  color: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
